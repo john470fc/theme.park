@@ -1,12 +1,3 @@
-@media (min-width: 752px) {
-    [class*="PageHeader-logoFull-"] {
-        content: url("/css/addons/lidarr/lidarr-grey/lidarr-grey.png");
-        margin-left: 15px;
-        width: 120px;
-        height: 40px;
-    }
-}
-
 @media only screen and (max-width: 768px) {
     [class*="PageHeader-logo-"] {
         width: 32px;
@@ -14,14 +5,4 @@
         margin-left: 0px;
         content: url("/css/addons/lidarr/lidarr-grey/lidarr-grey.png");
     }
-}
-
-[class*="LoadingPage-logoFull-"] {
-    content: url("/css/addons/lidarr/lidarr-grey/lidarr-grey.png");
-    margin-top: 50px;
-    margin-right: auto;
-    margin-left: auto;
-    width: 120px;
-    height: 40px;
-    opacity: 1;
 }
