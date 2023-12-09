@@ -7,7 +7,7 @@
     "lidarr": {
       "lidarr-alt-calendar": "https://john470fc.github.io\n/css/addons/lidarr/lidarr-alt-calendar/lidarr-alt-calendar.css?sha=0d66ea96a1e8551e7167d8c1509e94c1",
       "lidarr-darker": "https://john470fc.github.io\n/css/addons/lidarr/lidarr-darker/lidarr-darker.css?sha=6692956877a6db0c19866df34b2b863a",
-      "lidarr-grey": "https://john470fc.github.io\n/css/addons/lidarr/lidarr-grey/radarr-4k-logo.css?sha=e0b0f6a39e8a5c7a6a2dce1c234e0c7c"
+      "lidarr-grey": "https://john470fc.github.io\n/css/addons/lidarr/lidarr-grey/lidarr-grey.css?sha=8d7ee567b4660b5a257c939f74064330"
     },
     "organizr": {
       "glass": {
@@ -283,7 +283,7 @@
       "addons": {
         "lidarr-alt-calendar": "https://john470fc.github.io\n/css/addons/lidarr/lidarr-alt-calendar/lidarr-alt-calendar.css?sha=0d66ea96a1e8551e7167d8c1509e94c1",
         "lidarr-darker": "https://john470fc.github.io\n/css/addons/lidarr/lidarr-darker/lidarr-darker.css?sha=6692956877a6db0c19866df34b2b863a",
-        "lidarr-grey": "https://john470fc.github.io\n/css/addons/lidarr/lidarr-grey/radarr-4k-logo.css?sha=e0b0f6a39e8a5c7a6a2dce1c234e0c7c"
+        "lidarr-grey": "https://john470fc.github.io\n/css/addons/lidarr/lidarr-grey/lidarr-grey.css?sha=8d7ee567b4660b5a257c939f74064330"
       },
       "base_css": "https://john470fc.github.io\n/css/base/lidarr/lidarr-base.css?sha=0020c401a34f061b384a282b6518994f"
     },
