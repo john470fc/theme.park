@@ -35,6 +35,7 @@
       "readarr-darker": "https://john470fc.github.io\n/css/addons/readarr/readarr-darker/readarr-darker.css?sha=ad8e5dec29bb4a9b88641f6c0a1c67ab"
     },
     "sonarr": {
+      "lidarr-blue": {},
       "lidarr-grey": "https://john470fc.github.io\n/css/addons/sonarr/lidarr-grey/lidarr-grey.css?sha=8c6a35b79f1c6dbf12d5d1b369581afc",
       "lidarr-maroon": "https://john470fc.github.io\n/css/addons/sonarr/lidarr-maroon/lidarr-maroon.css?sha=785975587c7a363a0413f10a76b6451c",
       "sonarr-4k-logo": "https://john470fc.github.io\n/css/addons/sonarr/sonarr-4k-logo/sonarr-4k-logo.css?sha=fa08da55dda4888c681468dff73b1191",
@@ -394,6 +395,7 @@
     },
     "sonarr": {
       "addons": {
+        "lidarr-blue": {},
         "lidarr-grey": "https://john470fc.github.io\n/css/addons/sonarr/lidarr-grey/lidarr-grey.css?sha=8c6a35b79f1c6dbf12d5d1b369581afc",
         "lidarr-maroon": "https://john470fc.github.io\n/css/addons/sonarr/lidarr-maroon/lidarr-maroon.css?sha=785975587c7a363a0413f10a76b6451c",
         "sonarr-4k-logo": "https://john470fc.github.io\n/css/addons/sonarr/sonarr-4k-logo/sonarr-4k-logo.css?sha=fa08da55dda4888c681468dff73b1191",
