@@ -36,7 +36,7 @@
     },
     "sonarr": {
       "lidarr-blue": "https://john470fc.github.io\n/css/addons/sonarr/lidarr-blue/lidarr-blue.css?sha=56a1ff029923ac099537a22eaeea1e28",
-      "lidarr-grey": "https://john470fc.github.io\n/css/addons/sonarr/lidarr-grey/lidarr-grey.css?sha=8c6a35b79f1c6dbf12d5d1b369581afc",
+      "lidarr-grey": "https://john470fc.github.io\n/css/addons/sonarr/lidarr-grey/lidarr-grey.css?sha=2a80e3e000722e637f277c114668028f",
       "lidarr-maroon": "https://john470fc.github.io\n/css/addons/sonarr/lidarr-maroon/lidarr-maroon.css?sha=785975587c7a363a0413f10a76b6451c",
       "sonarr-4k-logo": "https://john470fc.github.io\n/css/addons/sonarr/sonarr-4k-logo/sonarr-4k-logo.css?sha=fa08da55dda4888c681468dff73b1191",
       "sonarr-4k-text-logo": "https://john470fc.github.io\n/css/addons/sonarr/sonarr-4k-text-logo/sonarr-4k-text-logo.css?sha=ad0d56248b52535e9a6abd6f838f4398",
@@ -396,7 +396,7 @@
     "sonarr": {
       "addons": {
         "lidarr-blue": "https://john470fc.github.io\n/css/addons/sonarr/lidarr-blue/lidarr-blue.css?sha=56a1ff029923ac099537a22eaeea1e28",
-        "lidarr-grey": "https://john470fc.github.io\n/css/addons/sonarr/lidarr-grey/lidarr-grey.css?sha=8c6a35b79f1c6dbf12d5d1b369581afc",
+        "lidarr-grey": "https://john470fc.github.io\n/css/addons/sonarr/lidarr-grey/lidarr-grey.css?sha=2a80e3e000722e637f277c114668028f",
         "lidarr-maroon": "https://john470fc.github.io\n/css/addons/sonarr/lidarr-maroon/lidarr-maroon.css?sha=785975587c7a363a0413f10a76b6451c",
         "sonarr-4k-logo": "https://john470fc.github.io\n/css/addons/sonarr/sonarr-4k-logo/sonarr-4k-logo.css?sha=fa08da55dda4888c681468dff73b1191",
         "sonarr-4k-text-logo": "https://john470fc.github.io\n/css/addons/sonarr/sonarr-4k-text-logo/sonarr-4k-text-logo.css?sha=ad0d56248b52535e9a6abd6f838f4398",
