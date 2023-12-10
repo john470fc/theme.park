@@ -37,7 +37,7 @@
     "sonarr": {
       "lidarr-blue": "https://john470fc.github.io\n/css/addons/sonarr/lidarr-blue/lidarr-blue.css?sha=513cf022cfa70613ae533d3e5ac471ec",
       "lidarr-grey": "https://john470fc.github.io\n/css/addons/sonarr/lidarr-grey/lidarr-grey.css?sha=2a80e3e000722e637f277c114668028f",
-      "lidarr-maroon": "https://john470fc.github.io\n/css/addons/sonarr/lidarr-maroon/lidarr-maroon.css?sha=785975587c7a363a0413f10a76b6451c",
+      "lidarr-maroon": "https://john470fc.github.io\n/css/addons/sonarr/lidarr-maroon/lidarr-maroon.css?sha=11115ad4b5b5c9983c065b0cff07023a",
       "sonarr-4k-logo": "https://john470fc.github.io\n/css/addons/sonarr/sonarr-4k-logo/sonarr-4k-logo.css?sha=fa08da55dda4888c681468dff73b1191",
       "sonarr-4k-text-logo": "https://john470fc.github.io\n/css/addons/sonarr/sonarr-4k-text-logo/sonarr-4k-text-logo.css?sha=ad0d56248b52535e9a6abd6f838f4398",
       "sonarr-darker": "https://john470fc.github.io\n/css/addons/sonarr/sonarr-darker/sonarr-darker.css?sha=358cb68a8f43c0db50a83ea85b1838cf",
@@ -138,7 +138,7 @@
       "url": "https://john470fc.github.io\n/css/theme-options/dark-and-green.css?sha=dd86bd0fd6de04aad8a38f00d83201e8"
     },
     "Dark-and-maroon": {
-      "url": "https://john470fc.github.io\n/css/theme-options/dark-and-maroon.css?sha=22cb012a960f08da51bc856875aec2f9"
+      "url": "https://john470fc.github.io\n/css/theme-options/dark-and-maroon.css?sha=e8761f6c68f6ef8d1be4a3ff2ce8c8c1"
     },
     "Dracula": {
       "url": "https://john470fc.github.io\n/css/theme-options/dracula.css?sha=6366d3845240fb8943c2b54d56335a19"
@@ -397,7 +397,7 @@
       "addons": {
         "lidarr-blue": "https://john470fc.github.io\n/css/addons/sonarr/lidarr-blue/lidarr-blue.css?sha=513cf022cfa70613ae533d3e5ac471ec",
         "lidarr-grey": "https://john470fc.github.io\n/css/addons/sonarr/lidarr-grey/lidarr-grey.css?sha=2a80e3e000722e637f277c114668028f",
-        "lidarr-maroon": "https://john470fc.github.io\n/css/addons/sonarr/lidarr-maroon/lidarr-maroon.css?sha=785975587c7a363a0413f10a76b6451c",
+        "lidarr-maroon": "https://john470fc.github.io\n/css/addons/sonarr/lidarr-maroon/lidarr-maroon.css?sha=11115ad4b5b5c9983c065b0cff07023a",
         "sonarr-4k-logo": "https://john470fc.github.io\n/css/addons/sonarr/sonarr-4k-logo/sonarr-4k-logo.css?sha=fa08da55dda4888c681468dff73b1191",
         "sonarr-4k-text-logo": "https://john470fc.github.io\n/css/addons/sonarr/sonarr-4k-text-logo/sonarr-4k-text-logo.css?sha=ad0d56248b52535e9a6abd6f838f4398",
         "sonarr-darker": "https://john470fc.github.io\n/css/addons/sonarr/sonarr-darker/sonarr-darker.css?sha=358cb68a8f43c0db50a83ea85b1838cf",
@@ -621,7 +621,7 @@
       "url": "https://john470fc.github.io\n/css/theme-options/dark-and-green.css?sha=dd86bd0fd6de04aad8a38f00d83201e8"
     },
     "Dark-and-maroon": {
-      "url": "https://john470fc.github.io\n/css/theme-options/dark-and-maroon.css?sha=22cb012a960f08da51bc856875aec2f9"
+      "url": "https://john470fc.github.io\n/css/theme-options/dark-and-maroon.css?sha=e8761f6c68f6ef8d1be4a3ff2ce8c8c1"
     },
     "Dracula": {
       "url": "https://john470fc.github.io\n/css/theme-options/dracula.css?sha=6366d3845240fb8943c2b54d56335a19"
