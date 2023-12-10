@@ -1,16 +1,16 @@
 @media (min-width: 752px) {
     [class*="PageHeader-logo-"] {
-        content: url("/css/addons/sonarr/lidarr-maroon/lidarr-maroon.png");
+        content: url("https://john470fc.github.io/theme.park/css/addons/sonarr/lidarr-maroon/lidarr-maroon.png");
     }
 }
 
 @media only screen and (max-width: 768px) {
     [class*="PageHeader-logo-"] {
-        content: url("/css/addons/sonarr/lidarr-maroon/lidarr-maroon.png");
+        content: url("https://john470fc.github.io/theme.park/css/addons/sonarr/lidarr-maroon/lidarr-maroon.png");
     }
 }
 
 [class*="LoadingPage-logoFull-"] {
-    content: url("/css/addons/sonarr/lidarr-maroon/lidarr-maroon.png");
+    content: url("https://john470fc.github.io/theme.park/css/addons/sonarr/lidarr-maroon/lidarr-maroon.png");
     opacity: 1;
 }
