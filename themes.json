@@ -29,8 +29,7 @@
       "radarr": "https://john470fc.github.io\n/css/addons/radarr/radarr/radarr.css?sha=68b329da9893e34099c7d8ad5cb9c940",
       "radarr-4k-logo": "https://john470fc.github.io\n/css/addons/radarr/radarr-4k-logo/radarr-4k-logo.css?sha=17de27bc3cb1b311e4a66cfaa61d1a2f",
       "radarr-alt-calendar": "https://john470fc.github.io\n/css/addons/radarr/radarr-alt-calendar/radarr-alt-calendar.css?sha=1e84b48a6bf4d24c236392e15bb167be",
-      "radarr-darker": "https://john470fc.github.io\n/css/addons/radarr/radarr-darker/radarr-darker.css?sha=0eb411789758c7df5016623accdc2887",
-      "radarr-v3": "https://john470fc.github.io\n/css/addons/radarr/radarr-v3/radarr-v3.css?sha=639a40e59a9dd5791f498c0d58be552e"
+      "radarr-darker": "https://john470fc.github.io\n/css/addons/radarr/radarr-darker/radarr-darker.css?sha=0eb411789758c7df5016623accdc2887"
     },
     "readarr": {
       "readarr-alt-calendar": "https://john470fc.github.io\n/css/addons/readarr/readarr-alt-calendar/readarr-alt-calendar.css?sha=73c0809f9a113737111a64e419c7452b",
@@ -371,8 +370,7 @@
         "radarr": "https://john470fc.github.io\n/css/addons/radarr/radarr/radarr.css?sha=68b329da9893e34099c7d8ad5cb9c940",
         "radarr-4k-logo": "https://john470fc.github.io\n/css/addons/radarr/radarr-4k-logo/radarr-4k-logo.css?sha=17de27bc3cb1b311e4a66cfaa61d1a2f",
         "radarr-alt-calendar": "https://john470fc.github.io\n/css/addons/radarr/radarr-alt-calendar/radarr-alt-calendar.css?sha=1e84b48a6bf4d24c236392e15bb167be",
-        "radarr-darker": "https://john470fc.github.io\n/css/addons/radarr/radarr-darker/radarr-darker.css?sha=0eb411789758c7df5016623accdc2887",
-        "radarr-v3": "https://john470fc.github.io\n/css/addons/radarr/radarr-v3/radarr-v3.css?sha=639a40e59a9dd5791f498c0d58be552e"
+        "radarr-darker": "https://john470fc.github.io\n/css/addons/radarr/radarr-darker/radarr-darker.css?sha=0eb411789758c7df5016623accdc2887"
       },
       "base_css": "https://john470fc.github.io\n/css/base/radarr/radarr-base.css?sha=2e7c2d2cac77496868570ff3ff3d69ac"
     },
