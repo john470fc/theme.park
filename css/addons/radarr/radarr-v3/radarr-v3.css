@@ -1,0 +1,16 @@
+@media (min-width: 752px) {
+    [class*="PageHeader-logo-"] {
+        content: url("https://john470fc.github.io/theme.park/css/addons/radarr/radarr-v3/radarr-v3.png");
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    [class*="PageHeader-logo-"] {
+        content: url("https://john470fc.github.io/theme.park/css/addons/radarr/radarr-v3/radarr-v3.png");
+    }
+}
+
+[class*="LoadingPage-logoFull-"] {
+    content: url("https://john470fc.github.io/theme.park/css/addons/radarr/radarr-v3/radarr-v3.png");
+    opacity: 1;
+}
