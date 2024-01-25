@@ -25,7 +25,6 @@
       "prowlarr-darker": "https://john470fc.github.io\n/css/addons/prowlarr/prowlarr-darker/prowlarr-darker.css?sha=1f9f8ec9984450f6745d2873f5346bf0"
     },
     "radarr": {
-      "radar-v3-green": "https://john470fc.github.io\n/css/addons/radarr/radar-v3-green/radar-v3-green.css?sha=a71619509b08d6a2d9402dfed843e5fd",
       "radarr": "https://john470fc.github.io\n/css/addons/radarr/radarr/radarr.css?sha=68b329da9893e34099c7d8ad5cb9c940",
       "radarr-4k-logo": "https://john470fc.github.io\n/css/addons/radarr/radarr-4k-logo/radarr-4k-logo.css?sha=17de27bc3cb1b311e4a66cfaa61d1a2f",
       "radarr-alt-calendar": "https://john470fc.github.io\n/css/addons/radarr/radarr-alt-calendar/radarr-alt-calendar.css?sha=1e84b48a6bf4d24c236392e15bb167be",
@@ -367,7 +366,6 @@
     },
     "radarr": {
       "addons": {
-        "radar-v3-green": "https://john470fc.github.io\n/css/addons/radarr/radar-v3-green/radar-v3-green.css?sha=a71619509b08d6a2d9402dfed843e5fd",
         "radarr": "https://john470fc.github.io\n/css/addons/radarr/radarr/radarr.css?sha=68b329da9893e34099c7d8ad5cb9c940",
         "radarr-4k-logo": "https://john470fc.github.io\n/css/addons/radarr/radarr-4k-logo/radarr-4k-logo.css?sha=17de27bc3cb1b311e4a66cfaa61d1a2f",
         "radarr-alt-calendar": "https://john470fc.github.io\n/css/addons/radarr/radarr-alt-calendar/radarr-alt-calendar.css?sha=1e84b48a6bf4d24c236392e15bb167be",
