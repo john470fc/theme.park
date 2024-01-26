@@ -1,6 +1,6 @@
 @media (min-width: 752px) {
     [class*="PageHeader-logoFull-"] {
-        content: url("https://github.com/john470fc/theme.park/blob/master/css/addons/sonarr/sonarr-text-logo/sonarr-text.png");
+        content: url("https://john470fc.github.io/theme.park/css/addons/sonarr/sonarr-v3-logo/sonarr-v3-logo.png");
         margin-left: 15px;
         width: 120px;
         height: 40px;
