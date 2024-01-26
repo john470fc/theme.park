@@ -1,6 +1,6 @@
 :root {
   --main-bg-color: radial-gradient(circle, #3a3a3a, #2d2d2d, #202020, #141414, #000000) center center/cover no-repeat fixed;
-  
+
   --modal-bg-color: linear-gradient(135deg , #3a3a3a, #2d2d2d, #202020, #141414, #000000) center center/cover no-repeat fixed;
   --modal-header-color: linear-gradient(135deg , #3a3a3a, #2d2d2d, #202020, #141414, #000000) center center/cover no-repeat fixed;
   --modal-footer-color: linear-gradient(135deg , #3a3a3a, #2d2d2d, #202020, #141414, #000000) center center/cover no-repeat fixed;
@@ -11,7 +11,7 @@
   --button-color-hover: rgb(150, 26, 94);
   --button-text: #eee;
   --button-text-hover: #FFF;
-  
+
   --accent-color: 162, 28, 101;
   --accent-color-hover: rgb(var(--accent-color),.8);
   --link-color: rgb(162, 28, 101);
