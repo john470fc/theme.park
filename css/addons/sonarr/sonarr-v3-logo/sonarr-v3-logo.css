@@ -1,4 +1,4 @@
-@media (min-width: 752px) {
+@media (min-width: 900px) {
     [class*="PageHeader-logoFull-"] {
         content: url("https://john470fc.github.io/theme.park/css/addons/sonarr/sonarr-v3-logo/sonarr-v3-logo.png");
         margin-left: 15px;
