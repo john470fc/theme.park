@@ -11,16 +11,16 @@
 
    --drop-down-menu-bg: #191a1c;
 
-    --button-color: #5899eb;
-    --button-color-hover: #4b91ea;
-    --button-text: #eee;
-    --button-text-hover: #fff;
+   --button-color: #5899eb;
+   --button-color-hover: #4b91ea;
+   --button-text: #eee;
+   --button-text-hover: #fff;
 
-    --accent-color: 0, 166, 91;
-    --accent-color-hover: rgb(0, 166, 91, .8);
-    --link-color: rgb(0, 166, 91);
-    --link-color-hover: rgb(0, 166, 91, .8);
-    --label-text-color: #eee;
+   --accent-color: 0, 166, 91;
+   --accent-color-hover: rgb(0, 166, 91, .8);
+   --link-color: rgb(0, 166, 91);
+   --link-color-hover: rgb(0, 166, 91, .8);
+   --label-text-color: #eee;
 
    --text:#ddd;
    --text-hover: #fff;
