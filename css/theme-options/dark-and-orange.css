@@ -7,16 +7,16 @@
 
   --drop-down-menu-bg: #2d2d2d;
 
-  --button-color: #4f46e5;
-  --button-color-hover: #6366f1;
-  --button-text: #e5e7eb;
+  --button-color: #cc7b19;
+  --button-color-hover: #e59029;
+  --button-text: #eee;
   --button-text-hover: #fff;
 
-  --accent-color: 167, 139, 250;
-  --accent-color-hover: rgb(var(--accent-color),.8);
-  --link-color: #6366f1;
-  --link-color-hover: #a78bfa;
-  --label-text-color: #000;
+  --accent-color: 229, 160, 13;
+  --accent-color-hover: #ffc107;
+  --link-color: #e5a00d;
+  --link-color-hover: #fff;
+  --label-text-color: #333;
     
   --text:#ddd;
   --text-hover: #fff;
