@@ -45,7 +45,7 @@
       "sonarr-darker": "https://john470fc.github.io\n/css/addons/sonarr/sonarr-darker/sonarr-darker.css?sha=358cb68a8f43c0db50a83ea85b1838cf",
       "sonarr-text-logo": "https://john470fc.github.io\n/css/addons/sonarr/sonarr-text-logo/sonarr-text-logo.css?sha=b27302fed964f73f7ec21dc8bb74e16f",
       "sonarr-v3": "https://john470fc.github.io\n/css/addons/sonarr/sonarr-v3/sonarr-v3.css?sha=96e6c873c932fbfcf2cf79752b152cf3",
-      "sonarr-v3-logo": "https://john470fc.github.io\n/css/addons/sonarr/sonarr-v3-logo/sonarr-v3-logo.css?sha=2ef131c71d11b24e7367e1b1c8024a9f"
+      "sonarr-v3-logo": "https://john470fc.github.io\n/css/addons/sonarr/sonarr-v3-logo/sonarr-v3-logo.css?sha=fa84b47f490777a4340fc92ba6f4e3c4"
     },
     "unraid": {
       "login-page": {
@@ -415,7 +415,7 @@
         "sonarr-darker": "https://john470fc.github.io\n/css/addons/sonarr/sonarr-darker/sonarr-darker.css?sha=358cb68a8f43c0db50a83ea85b1838cf",
         "sonarr-text-logo": "https://john470fc.github.io\n/css/addons/sonarr/sonarr-text-logo/sonarr-text-logo.css?sha=b27302fed964f73f7ec21dc8bb74e16f",
         "sonarr-v3": "https://john470fc.github.io\n/css/addons/sonarr/sonarr-v3/sonarr-v3.css?sha=96e6c873c932fbfcf2cf79752b152cf3",
-        "sonarr-v3-logo": "https://john470fc.github.io\n/css/addons/sonarr/sonarr-v3-logo/sonarr-v3-logo.css?sha=2ef131c71d11b24e7367e1b1c8024a9f"
+        "sonarr-v3-logo": "https://john470fc.github.io\n/css/addons/sonarr/sonarr-v3-logo/sonarr-v3-logo.css?sha=fa84b47f490777a4340fc92ba6f4e3c4"
       },
       "base_css": "https://john470fc.github.io\n/css/base/sonarr/sonarr-base.css?sha=8c1ab1099a49054a9f58ba03344d2f76"
     },
