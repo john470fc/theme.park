@@ -30,7 +30,7 @@
       "radarr-alt-calendar": "https://john470fc.github.io\n/css/addons/radarr/radarr-alt-calendar/radarr-alt-calendar.css?sha=1e84b48a6bf4d24c236392e15bb167be",
       "radarr-darker": "https://john470fc.github.io\n/css/addons/radarr/radarr-darker/radarr-darker.css?sha=0eb411789758c7df5016623accdc2887",
       "radarr-v3-green": "https://john470fc.github.io\n/css/addons/radarr/radarr-v3-green/radarr-v3-green.css?sha=a71619509b08d6a2d9402dfed843e5fd",
-      "sonarr-v3-logo": "https://john470fc.github.io\n/css/addons/radarr/sonarr-v3-logo/sonarr-v3-logo.css?sha=68b329da9893e34099c7d8ad5cb9c940"
+      "sonarr-v3-logo": "https://john470fc.github.io\n/css/addons/radarr/sonarr-v3-logo/sonarr-v3-logo.css?sha=ddf0e64ba4f01831e19947edd9f61fcd"
     },
     "readarr": {
       "readarr-alt-calendar": "https://john470fc.github.io\n/css/addons/readarr/readarr-alt-calendar/readarr-alt-calendar.css?sha=73c0809f9a113737111a64e419c7452b",
@@ -379,7 +379,7 @@
         "radarr-alt-calendar": "https://john470fc.github.io\n/css/addons/radarr/radarr-alt-calendar/radarr-alt-calendar.css?sha=1e84b48a6bf4d24c236392e15bb167be",
         "radarr-darker": "https://john470fc.github.io\n/css/addons/radarr/radarr-darker/radarr-darker.css?sha=0eb411789758c7df5016623accdc2887",
         "radarr-v3-green": "https://john470fc.github.io\n/css/addons/radarr/radarr-v3-green/radarr-v3-green.css?sha=a71619509b08d6a2d9402dfed843e5fd",
-        "sonarr-v3-logo": "https://john470fc.github.io\n/css/addons/radarr/sonarr-v3-logo/sonarr-v3-logo.css?sha=68b329da9893e34099c7d8ad5cb9c940"
+        "sonarr-v3-logo": "https://john470fc.github.io\n/css/addons/radarr/sonarr-v3-logo/sonarr-v3-logo.css?sha=ddf0e64ba4f01831e19947edd9f61fcd"
       },
       "base_css": "https://john470fc.github.io\n/css/base/radarr/radarr-base.css?sha=2e7c2d2cac77496868570ff3ff3d69ac"
     },
